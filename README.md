@@ -1,1 +1,1 @@
-# react-tabs
+# react-bettertabs
